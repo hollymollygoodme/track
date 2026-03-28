@@ -12,7 +12,7 @@ Gunakan perintah berikut di terminal/Termux:
 ```bash
 pkg install git
 pkg install python3
-git clone [https://github.com/hollymollygoodme/track.git](https://github.com/hollymollygoodme/track.git)
+git clone https://github.com/hollymollygoodme/track.git
 cd track
 pip3 install -r requirements.txt
 python3 track.py
