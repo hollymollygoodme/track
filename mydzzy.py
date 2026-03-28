@@ -1,4 +1,3 @@
-# IMPORT MODULE
 
 import json
 import requests
@@ -8,7 +7,7 @@ import phonenumbers
 from phonenumbers import carrier, geocoder, timezone
 from sys import stderr
 
-Bl = '\033[30m'  # VARIABLE BUAT WARNA CUYY
+Bl = '\033[30m'  # VARIABLE BUAT WARNA 
 Re = '\033[1;31m'
 Gr = '\033[1;32m'
 Ye = '\033[1;33m'
